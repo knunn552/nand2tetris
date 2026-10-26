@@ -1,0 +1,14 @@
+# === Visual Studio User & Cache Files ===
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# === Build Outputs & Binaries ===
+[Bb]in/
+[Oo]bj/
+.net/
+
+# === OS & System Trash ===
+.DS_Store
+Thumbs.db
